@@ -1,0 +1,9 @@
+node_modules/
+.env
+npm-debug.log*
+backup_*.sql
+
+# Arquivos enviados por usuários (foto de perfil, portfólio) — Semana 3.
+# A pasta é versionada (via .gitkeep), o conteúdo enviado não.
+uploads/*
+!uploads/.gitkeep
