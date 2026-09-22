@@ -20,7 +20,7 @@ O arquivo de configuração local é `C:\Users\Desktop\Desktop\Tcc\backend\.env`
 ### 2. Aplicativo web
 
 ```powershell
-cd C:\Users\Desktop\Desktop\Tcc\flutter_application_1
+cd C:\Users\Desktop\Desktop\Tcc\contrata_ai_app
 flutter pub get
 flutter run -d web-server --web-port 8080
 ```

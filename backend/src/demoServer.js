@@ -8,7 +8,7 @@ const apiApp = require('./app');
 const port = Number(process.env.DEMO_PORT || 8090);
 const flutterWebDir = path.resolve(
   process.env.FLUTTER_WEB_DIR ||
-    path.join(__dirname, '..', '..', 'flutter_application_1', 'build', 'web'),
+    path.join(__dirname, '..', '..', 'contrata_ai_app', 'build', 'web'),
 );
 const indexFile = path.join(flutterWebDir, 'index.html');
 
