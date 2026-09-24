@@ -2,8 +2,6 @@
 
 O **Contrata Aí** é uma plataforma para aproximar pessoas e empresas que precisam contratar um serviço de profissionais disponíveis para realizá-lo. O projeto nasceu como Trabalho de Conclusão de Curso e evoluiu para um protótipo funcional, com aplicativo responsivo, API própria e regras de negócio que acompanham todo o processo: da publicação da oportunidade à conclusão e avaliação do trabalho.
 
-Mais do que uma vitrine de profissionais, a proposta é organizar uma relação que normalmente acontece de forma dispersa. Contratante e profissional conseguem combinar o serviço, acompanhar a jornada, registrar ocorrências e manter um histórico do que foi realizado dentro da mesma plataforma.
-
 ## O que o projeto oferece
 
 ### Para quem contrata
